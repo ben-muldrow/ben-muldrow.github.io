@@ -1,3 +1,3 @@
 ## Please Select a Link
 
-* [Visitor Pattern](/visitor.md)
+* [Visitor Pattern](visitor.md)
